@@ -1,0 +1,11 @@
+C:\Users\rewle\source\repos\segment\segment\bin\Debug\segment.exe.config
+C:\Users\rewle\source\repos\segment\segment\bin\Debug\segment.exe
+C:\Users\rewle\source\repos\segment\segment\bin\Debug\segment.pdb
+C:\Users\rewle\source\repos\segment\segment\bin\Debug\segment.xml
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.vbprojAssemblyReference.cache
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.Form1.resources
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.Resources.resources
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.vbproj.GenerateResource.cache
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.exe
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.xml
+C:\Users\rewle\source\repos\segment\segment\obj\Debug\segment.pdb
